@@ -18,9 +18,27 @@
 	margin: 4.5vw;
 }
 ol {
-	list-style-type: square;
+	list-style-type: upper-roman;
+}
+li {
+	padding: 5px;
 }
 #text-box{
 	width: 60%;
 	margin: 2.5vw auto;
+}
+
+.tutorial-text {
+	margin: 0 auto;
+	width: 60%;
+}
+.img-padding {
+	padding-top: 20px;
+}
+.bottom-text {
+	margin-bottom: 20px;
+}
+.tutorial-img {
+	width: 50%;
+	margin-left: 15%;
 }

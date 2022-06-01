@@ -1,0 +1,36 @@
+{
+  "name": "github_page",
+  "version": "1.0.0",
+  "main": "styles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "video.js": "^7.18.1"
+  },
+  "dependencies": {
+    "aes-decrypter": "^3.1.2",
+    "dom-walk": "^0.1.2",
+    "global": "^4.4.0",
+    "individual": "^2.0.0",
+    "is-function": "^1.0.2",
+    "keycode": "^2.2.1",
+    "m3u8-parser": "^4.7.0",
+    "min-document": "^2.19.0",
+    "mpd-parser": "^0.21.0",
+    "mux.js": "^6.0.1",
+    "pkcs7": "^1.0.4",
+    "process": "^0.11.10",
+    "regenerator-runtime": "^0.13.9",
+    "rust-result": "^1.0.0",
+    "safe-json-parse": "^4.0.0",
+    "url-toolkit": "^2.2.5",
+    "videojs-font": "^3.2.0",
+    "videojs-vtt.js": "^0.15.3",
+    "videojs-youtube": "^2.6.1"
+  },
+  "description": ""
+}
